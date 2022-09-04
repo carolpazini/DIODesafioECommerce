@@ -20,7 +20,7 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 -- Aceita-se como forma de pagamento Cartão de Crédito, Débito e Boleto;
 
--- Os pedidos são rastreaveis;
+-- Os pedidos são rastreáveis;
 
 -- Um produto pode ser vendido por um "vendedor terceirizado";
 
@@ -28,4 +28,4 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 -- Um fornecedor pode fornecer para loja principal e para um vendedor terceirizado;
 
--- Um forncedor pode ter vários endereços.
+-- Um fornecedor pode ter vários endereços.
