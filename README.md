@@ -12,12 +12,12 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 ### Descrição do Esquema
 
-Esquema de modelagem de banco de dados de um e-commerce.
-Possui como clientes contas de Pessoas Físicas e Jurídicas;
-Um cliente (conta) pode fazer vários pedidos, ter vários endereços de entrega;
-Aceita-se como forma de pagamento Cartão de Crédito, Débito e Boleto;
-Os pedidos são rastreaveis;
-Um produto pode ser vendido por um "vendedor terceirizado";
-Um vendedor terceirizado pode ter vários fornecedores;
-Um fornecedor pode fornecer para loja principal e para um vendedor terceirizado;
-Um forncedor pode ter vários endereços.
+-- Esquema de modelagem de banco de dados de um e-commerce;
+-- Possui como clientes contas de Pessoas Físicas e Jurídicas;
+-- Um cliente (conta) pode fazer vários pedidos, ter vários endereços de entrega;
+-- Aceita-se como forma de pagamento Cartão de Crédito, Débito e Boleto;
+-- Os pedidos são rastreaveis;
+-- Um produto pode ser vendido por um "vendedor terceirizado";
+-- Um vendedor terceirizado pode ter vários fornecedores;
+-- Um fornecedor pode fornecer para loja principal e para um vendedor terceirizado;
+-- Um forncedor pode ter vários endereços.
